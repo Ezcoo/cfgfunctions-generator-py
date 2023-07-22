@@ -3,9 +3,8 @@ CfgFunctions generator script for Arma 3, written in Python. See also Visual Stu
 
 ## Usage:
 
-- Add `functions` folder in the mission/mod directory.
-- Place `generate.py` script in the `functions` folder.
-- Download/pull, then configure `generate.py` (add your personal tag defined in the file) and run it with Python on your system.
+- Create `functions` folder in the mission/mod directory.
+- Download/pull and configure `generate.py` (add your personal tag defined in the file) and place it in the `functions` folder you created in the previous step.
 - Run `generate.py` with Python runtime environment installed on your system from terminal/command line (see Requirements).
 
 ## Requirements
